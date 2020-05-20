@@ -1,7 +1,7 @@
 require "./lib/active_record/connection_adapters/postgis/version.rb"
 
 Gem::Specification.new do |spec|
-  spec.name = "activerecord-postgis-adapter"
+  spec.name = "tcp-activerecord-postgis-adapter"
   spec.summary = "ActiveRecord adapter for PostGIS, based on RGeo."
   spec.description =
     "ActiveRecord connection adapter for PostGIS. It is based on the stock " \
